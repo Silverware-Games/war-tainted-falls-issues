@@ -12,4 +12,4 @@ Rules:
 * All vulnerabilities should be reported privately.
 * You must not use the Issue Tracker if you do not agree to any of the terms.
 
-Discord: https://discord.silverwaregames.com (#war-tainted-falls)
+Discord: https://discord.silverwaregames.com (#war-tainted-falls-io)
